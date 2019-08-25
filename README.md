@@ -1,7 +1,7 @@
 # regression-model
 This project deals with estimating the CO2 Emissions for a newly manufactured car by making Regression models which can accurately predetermine the car CO2 emissions before it is being launched. 
 The predictions are done based on the various features and specifications of the car. 
-- Dataset is extracted from the CO2_emission.csv file.
+- Dataset is extracted from the <b>CO2_emission.csv</b> file.
 <h3>Description of dataset:</h3>
 
   - YEAR – Year of manufacturing of car.
@@ -33,5 +33,10 @@ The predictions are done based on the various features and specifications of the
  These ML models are created using python libraries.</b>
 <h3>Tools and technologies used:</h3>
 
-1. Python
-2. sklearn (version 0.20.1)
+1. Python (3.7.1)
+2. Jupyter Notebook (4.4.0)
+3. scikit-learn (0.20.1)
+4. pandas (0.23.4)
+5. NumPy (1.15.4)
+6. Matplotlib (3.0.2)
+7. seaborn (0.9.0)
