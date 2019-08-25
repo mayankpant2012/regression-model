@@ -1,6 +1,7 @@
 # regression-model
 This project deals with estimating the CO2 Emissions for a newly manufactured car by making Regression models which can accurately predetermine the car CO2 emissions before it is being launched. 
-The predictions are done based on the various features and specifications of the car. 
+The predictions are done based on the various features and specifications of the car.
+<b>Open the CO2_emission_regression.ipynb file. All operations are performed in the file.</b>
 - Dataset is extracted from the <b>CO2_emission.csv</b> file.
 <h3>Description of dataset:</h3>
 
